@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{149:function(t,e,n){"use strict";n.r(e);var l={},c=n(22),component=Object(c.a)(l,(function(){var t=this.$createElement;return(this._self._c||t)("h1",{staticStyle:{"text-align":"center"}},[this._v("CONTACT PAGE")])}),[],!1,null,null,null);e.default=component.exports}}]);
